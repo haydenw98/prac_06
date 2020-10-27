@@ -25,5 +25,4 @@ def main():
     truck.drive(400)
     print(truck)
 
-
 main()
